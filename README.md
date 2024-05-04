@@ -1,23 +1,22 @@
 <h1 align="left">Hi 👋, I'm jefferson pino</h1>
-<h3 align="left">A passionate Fullstack developer from Colombia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonpinonarvaez&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonpinonarvaez" /> </p>
+<h3 align="left">An enthusiastic Fullstack developer hailing from Colombia!</h3>
+
+- 🌱 Currently delving into **AI tools and exploring ML concepts**
+
+- 🤝 Seeking collaboration on **ML and AI open-source projects!**
+
+- 👨‍💻 Check out my public projects at www.jeffnotes.com/projects
+
+- 📝 Regularly contributing articles to www.jeffnotes.com
+
+- 💬 Let's chat about **VueJS, React, JavaScript, and DevOps!**
+
+- 📄 Explore my professional journey at www.jeffnotes.com/experiences
+
+- ⚡ **Fun fact:** Did you know the term "bug" originated in 1947 when computer scientist Grace Hopper discovered a moth causing glitches in the Mark II computer?
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffersonpinonarvaez" alt="jeffersonpinonarvaez" /></a> </p>
-
-- 🌱 I’m currently learning **AI tools and ML concepts**
-
-- 🤝 I’m looking for help with **ML and AI Open source projects!**
-
-- 👨‍💻 All of my public projects are available at [www.jeffnotes.com/projects](www.jeffnotes.com/projects)
-
-- 📝 I regularly write articles on [www.jeffnotes.com](www.jeffnotes.com)
-
-- 💬 Ask me about **VueJS, React, JavaScript and DevOps**
-
-- 📄 Know about my experiences [www.jeffnotes.com/experiences](www.jeffnotes.com/experiences)
-
-- ⚡ Fun fact: **Did you know that the term "bug" to describe a glitch or error in a computer program originated in 1947 when computer scientist Grace Hopper discovered an actual moth causing problems in the hardware of the Mark II computer?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
