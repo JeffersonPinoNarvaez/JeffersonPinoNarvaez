@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m Jefferson Pino Narváez
 
-### 🚀 Full Stack & Cloud Engineer | AI Integrator
+### 🚀 Full Stack AI & Cloud Engineer | AI Integrator
 
 I build and deploy scalable systems across the full stack — from frontend applications to distributed cloud infrastructure.  
 Focused on real-world solutions, automation, and AI-powered products.
@@ -18,15 +18,17 @@ Focused on real-world solutions, automation, and AI-powered products.
 
 ## 🌟 Highlighted Projects
 
-- 🤖 **CV Match AI**  
-  - Repo: https://github.com/JeffersonPinoNarvaez/cv-match-ai  
+- 🤖 **CV Match AI**   
   - Live: https://cv-match-ai.jeffersonpino.dev/  
   - AI-powered resume analysis and job matching with actionable insights  
 
 - 🎯 **Interview Coach AI**  
-  - Repo: https://github.com/JeffersonPinoNarvaez/interview-coach-ai  
   - Live: https://interview-coach-ai.jeffersonpino.dev/  
   - AI-driven interview practice platform with real-time feedback  
+
+- 🎯 **CVPilot AI**
+  - Live: https://cvpilot.jeffersonpino.dev/
+  - AI-powered resume optimizer that tailors your CV to any job description in seconds
 
 - 📦 **Vagrant Webservices Cluster**  
   - Repo: https://github.com/JeffersonPinoNarvaez/vagrant-webservices-cluster  
